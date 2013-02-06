@@ -1,0 +1,1 @@
+TortoiseProc.exe /command:update /path:%SOCKDIR% /notempfile /closeonend:0
